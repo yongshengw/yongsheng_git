@@ -1,0 +1,27 @@
+==> SourceCode <==
+
+==> config <==
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = git@github.com:yongshengw/yongsheng_git.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+
+==> description <==
+Unnamed repository; edit this file 'description' to name the repository.
+
+==> hooks <==
+
+==> info <==
+
+==> objects <==
+
+==> refs <==
+
+==> yyy.text <==
+121r343
+==> master <==
